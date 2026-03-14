@@ -1,0 +1,10 @@
+Instructions: 
+
+1. Please move database file  'MyTourstManager.db' to Documents folder ( or any location where user has write access )
+2. If you want to modify the database file then install SqlLite from https://sqlitebrowser.org/
+
+User are free to downlaod & modify the project as per their need. 
+
+Please subscribe to you youtube channel - CppBuzz
+
+https://www.cppbuzz.com
